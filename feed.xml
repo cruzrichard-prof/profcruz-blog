@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prof Cruz — Thinking in Systems</title>
+    <link>https://profcruz.com</link>
+    <description>Notes on strategy, governance, institutional transformation, and the architecture of learning by Richard Cruz.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://profcruz.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>EDSA at 40: What an Event Can't Fix</title>
+      <link>https://profcruz.com/posts/edsa-at-40-what-an-event-cant-fix.html</link>
+      <guid>https://profcruz.com/posts/edsa-at-40-what-an-event-cant-fix.html</guid>
+      <pubDate>Tue, 25 Feb 2026 00:00:00 +0800</pubDate>
+      <description>A four-part structural reflection on EDSA — not commemoration, but a framework for understanding why political resets don't automatically produce durable transformation, and what small experiments might actually compound into institutional depth.</description>
+    </item>
+
+    <item>
+      <title>Why Transformation Programs Fail Before They Start</title>
+      <link>https://profcruz.com/posts/why-transformation-programs-fail.html</link>
+      <guid>https://profcruz.com/posts/why-transformation-programs-fail.html</guid>
+      <pubDate>Tue, 25 Feb 2026 00:00:00 +0800</pubDate>
+      <description>Most organizational transformations don't fail in execution. They fail in framing — the moment leaders confuse activity-based planning with genuine strategic architecture.</description>
+    </item>
+
+    <item>
+      <title>Governance Is Not Compliance</title>
+      <link>https://profcruz.com/posts/governance-is-not-compliance.html</link>
+      <guid>https://profcruz.com/posts/governance-is-not-compliance.html</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0800</pubDate>
+      <description>When boards treat governance as a compliance checklist, they create the illusion of oversight while systematically undermining institutional coherence.</description>
+    </item>
+
+    <item>
+      <title>The Rigidity Trap: When Success Becomes the Problem</title>
+      <link>https://profcruz.com/posts/the-rigidity-trap.html</link>
+      <guid>https://profcruz.com/posts/the-rigidity-trap.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0800</pubDate>
+      <description>Organizations that succeed through operational discipline often build the exact structures that prevent them from adapting when the environment shifts. This is the rigidity trap — and escaping it requires a fundamentally different logic.</description>
+    </item>
+
+  </channel>
+</rss>
