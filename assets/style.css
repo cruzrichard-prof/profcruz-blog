@@ -427,3 +427,75 @@ body {
 main {
   animation: fadeIn 0.4s ease-out;
 }
+/* ---- Newsletter Signup ---- */
+.newsletter-signup {
+  border-top: 1px solid var(--color-border);
+  margin-top: calc(var(--spacing-unit) * 5);
+  padding: calc(var(--spacing-unit) * 5) 0;
+}
+
+.newsletter-signup p {
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+  margin-bottom: calc(var(--spacing-unit) * 2);
+  line-height: 1.6;
+}
+
+.newsletter-signup form {
+  display: flex;
+  gap: calc(var(--spacing-unit) * 1.5);
+  max-width: 440px;
+}
+
+.newsletter-signup input[type="email"] {
+  flex: 1;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  padding: 10px 14px;
+  border: 1px solid var(--color-border);
+  border-radius: 3px;
+  background: var(--color-surface);
+  color: var(--color-text);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.newsletter-signup input[type="email"]:focus {
+  border-color: var(--color-accent);
+}
+
+.newsletter-signup input[type="submit"] {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 10px 20px;
+  background: var(--color-accent);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  transition: background 0.2s;
+}
+
+.newsletter-signup input[type="submit"]:hover {
+  background: var(--color-accent-hover);
+}
+
+@media (max-width: 640px) {
+  .newsletter-signup form {
+    flex-direction: column;
+  }
+}
+```
+
+4. Click **Commit changes**
+
+**File 2: Add signup to `index.html`**
+
+1. Go back to repo root → click `index.html` → **pencil icon**
+2. Find this line near the bottom:
+```
+   <footer class="site-footer">
